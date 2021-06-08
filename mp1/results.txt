@@ -1,0 +1,12 @@
+test results:
+
+ wget small file from your server succeeded!
+ your client getting file from your server succeeded!
+ concurrency test succeeded!
+====================
+
+version:11
+score: 100/100
+all-time best score (your current grade): 100/100
+
+
